@@ -5,7 +5,7 @@
     RightShift — скрыть/показать окно хаба. Fly: WASD + Space / LeftShift. Клик/клавиша в интро — пропустить.
 ]]
 
-local BOT_LINK   = "https://t.me/YOUR_BOT"
+local BOT_LINK   = "https://t.me/BYSHEB_bot"
 local KEY_FILE   = "mm2prohub_key.txt" -- сюда запоминается введённый ключ (если эксплоит умеет writefile)
 
 local Players          = game:GetService("Players")
